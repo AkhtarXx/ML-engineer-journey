@@ -5,7 +5,7 @@ This repository cantains a list of projects which i will work on while learning 
 
 
 
-#Introduction_to_Machine_Learning_1.1:
+# Introduction_to_Machine_Learning_1.1:
 Suppose you want to sell your car on "olx." You filled up all the things that are required, and now you have to put in the price of
 Your car and you don't know what price you should put on it. This step is tricky because nobody will buy it if you set a higher price.
 If you put a too low price on your car, this will be your loss. One thing you can do is to go to the market and check the prices of cars.
@@ -13,7 +13,7 @@ That isn't easy. So, what can we do to solve this problem?
 We can solve the problem with machine learning, but how? when you go to some car dealers' experts and show them your car? Then he asks some questions about the car, like a year of manufacture, make (BMW, FORD), mileage, and then he predicts the price of your car because he knows the pattern (selling or buying) if an expert can predict it, so the model can also predict the price by evaluating the patterns. So, we train our model on patterns like this kind of car being sold at this price and many other patterns we use to train our model. The input we provide to the model is called "features" (what we know about the cars), and what we want to predict is called "Target." So, when the model is trained, we give the random features or patterns to the model, and then the model predicts the price One thing you should know is that the model will not predict a 100% accurate price. It can be a little bit higher or a little bit lower than average. So now we have a model that predicts the price from the features. Now it's time to help our website users. Whenever they input the features, our model will predict the best price for the car.
 
 
-#ML_vs_Rule_Based_Systems_1.2
+# ML_vs_Rule_Based_Systems_1.2
 Today I learned about ML vs. Rule-Based Systems so I will explain it to you guys.
 Let's first talk about the rule base system: we all use email services like Gmail and Yahoo. We are all familiar with spam mail. So here is a situation where we don't want to see these spam mails in our email boxes because these are social engineering techniques that manipulate users to click on their specific links so they can steal their information. So now we know what spam emails are, and we don't want them. So how does the rule-based system deal with this problem? We often see a fake domain and a fake title in spam mail, so we will automatically make some rules to send these emails to the spam folder. If the sender mail = ------@online.com or the title contains "tax review," and if the body contains the word "deposit," make it spam. Otherwise, good email.
 What If the rules change again and again? So, we have to code again and again, which is frustrating.
@@ -22,7 +22,7 @@ So, to deal with this problem using ML, we first have to get the data from our u
 
 
 
-#Supervised_Machine_Learning_1.3
+# Supervised_Machine_Learning_1.3
 
 Today we will learn about supervised ML. The word “supervised” means there is a teacher who is supervising or teaching the model. As you know, we trained our model on car data. We provided all the car information to the model to predict the price and the spam mail data so that the model could predict which was spam and which was good.
 So now we will discuss supervised ML types.
@@ -39,7 +39,7 @@ As we studied spam mail issues, it was also a classification problem. We were do
 
 
 
-#Model_selection_1.4
+# Model_selection_1.4
 
 Today I am writing about the model selection process, which I recently learned, and I want to share it with you guys. The model selection process is vital in machine learning.
 So, what do we do in the model selection process?
