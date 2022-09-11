@@ -50,8 +50,17 @@ So now you train your model with different types of ML algorithms.
 With logistic regression, it gives you 40% accuracy; with random forest, it gives you 60% accuracy.
 And with a neural network it gives you 80%, so you choose the best accuracy model accordingly.
 Another thing to remember is that if you choose a neural network as your prediction model, you must test it again using the 60/20/20 rule. 60% will be your training data, 20% will be for validation, and the other 20% for testing.
-After this, if you get 78% to 79%, we are good to go with this NN model. The accuracy doesn't need to be 78 % or 79%; it could be lower or higher.
+After this, if you get 78% to 79%, we are good to go with this NN model. The accuracy doesn't need to be 78 % or 79%; it could be lower or higher
 
+
+
+Introduction_to_NumPy_1.4
+check out my repo where I uploaded the Numpy Introduction practice file
+
+
+
+# Introduction_to_Pandas_1.5
+check out my repo where I uploaded the Pandas Introduction practice file
 
 
 
