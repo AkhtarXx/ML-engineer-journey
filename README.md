@@ -54,7 +54,7 @@ After this, if you get 78% to 79%, we are good to go with this NN model. The acc
 
 
 
-Introduction_to_NumPy_1.4
+# Introduction_to_NumPy_1.4
 check out my repo where I uploaded the Numpy Introduction practice file
 
 
